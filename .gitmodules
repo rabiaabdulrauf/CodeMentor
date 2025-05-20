@@ -1,0 +1,6 @@
+[submodule "my-app"]
+	path = my-app
+	url = https://github.com/user/repo.git
+[submodule "CodeMentor"]
+	path = CodeMentor
+	url = https://github.com/rabiaabdulrauf/CodeMentor.git
